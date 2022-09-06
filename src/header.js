@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.scss';
 
-const Footer = () => {
+const Header = () => {
     return (
         <footer className="bck_black">
             <div className="font_righteous footer_logo_venue">React Quiz</div>
@@ -16,4 +16,4 @@ const Footer = () => {
     );
 };
 
-export default Footer;
+export default Header;
